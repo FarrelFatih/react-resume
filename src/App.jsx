@@ -43,17 +43,17 @@ function App() {
         <div className="firstCard">
           <h2>Who's Farrel?</h2>
           <p>
-            I am passionate about applying mathematics in information
-            technology, particularly in web development, mobile application
-            development, AWS Solution Architecture, and database management
-            (SQL/NoSQL). With over 2 years of professional experience, I have
-            successfully developed and managed data models, implemented database
-            triggers, and integrated various databases using Prisma and
-            Mongoose. My technical expertise includes Flutter, Express.Js,
-            PostgreSQL, MongoDB, JavaScript, and Java. In addition to my
-            technical skills, I am actively engaged in organizational activities
-            and have been honored as a recipient of the Bank Indonesia
-            Scholarship (GenBI).
+            Currently working as ODP IT Specialist at Bank Syariah Indonesia. I
+            am passionate about applying mathematics in information technology,
+            particularly in web development, mobile application development, AWS
+            Solution Architecture, and database management (SQL/NoSQL). With
+            over 2 years of professional experience, I have successfully
+            developed and managed data models, implemented database triggers,
+            and integrated various databases using Prisma and Mongoose. My
+            technical expertise includes Flutter, Express.Js, PostgreSQL,
+            MongoDB, JavaScript, and Java. In addition to my technical skills, I
+            am actively engaged in organizational activities and have been
+            honored as a recipient of the Bank Indonesia Scholarship (GenBI).
           </p>
         </div>
 
